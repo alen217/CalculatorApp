@@ -40,7 +40,7 @@ public class divact extends AppCompatActivity {
                 num2=Integer.parseInt(st2);
                 prod=num1/num2;
                 rm=String.valueOf(prod);
-                Toast.makeText(getApplicationContext(),prod,Toast.LENGTH_LONG).show();
+                Toast.makeText(getApplicationContext(),rm,Toast.LENGTH_LONG).show();
 
 
             }
